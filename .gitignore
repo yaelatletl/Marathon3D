@@ -3,3 +3,16 @@ Aliens/Pfhor/Pfhor.bin
 *.blend1
 *.gltf
 *.bmp
+<<<<<<< HEAD
+Humans/MAAD[WIP]/MADD.blend
+Batalla.blend
+Scene.blend
+walls.blend
+Screen.blend
+Humans/MAAD[WIP]/textures/UpperbodyBase.001
+*.blend1
+pny.png
+Aliens/Spht/SphtHighPoly.blend1
+=======
+>>>>>>> parent of 6f23cd0... Versioning the MADD due to Seam problems
+*.blend1
